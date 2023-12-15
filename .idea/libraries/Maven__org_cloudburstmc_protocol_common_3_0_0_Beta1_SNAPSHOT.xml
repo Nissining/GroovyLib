@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.cloudburstmc.protocol:common:3.0.0.Beta1-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/cloudburstmc/protocol/common/3.0.0.Beta1-SNAPSHOT/common-3.0.0.Beta1-20231206.150507-113.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/cloudburstmc/protocol/common/3.0.0.Beta1-SNAPSHOT/common-3.0.0.Beta1-20231206.150507-113-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/cloudburstmc/protocol/common/3.0.0.Beta1-SNAPSHOT/common-3.0.0.Beta1-20231206.150507-113-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

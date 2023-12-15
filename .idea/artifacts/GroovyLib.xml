@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="GroovyLib">
+    <output-path>$PROJECT_DIR$/../../plugins</output-path>
+    <root id="archive" name="GroovyLib.jar">
+      <element id="file-copy" path="$PROJECT_DIR$/src/plugin.yml" />
+      <element id="module-output" name="GroovyLib" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/groovy/groovy/4.0.10/groovy-4.0.10.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
